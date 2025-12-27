@@ -11,3 +11,7 @@ This is a beginner-friendly Python project that fetches a random joke using a pu
 ```bash
 pip install -r requirements.txt
 python app.py
+## Features
+- Fetches random jokes using public API
+- Handles API/network errors
+- Allows user to fetch multiple jokes interactively
